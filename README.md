@@ -22,14 +22,30 @@ GMAR leverages class-specific gradient information to quantify the contribution 
 
 ![Image](https://github.com/user-attachments/assets/94f758b7-3108-40ab-90b6-2c7306bc44fc)
 
-## Setup
+## Getting Started
 
-First, create your environment. We recommend using the following comments.
+Clone the repo:
 
+```bash
+  git clone https://github.com/sehyeongjo/GMAR.git
+  cd GMAR
 ```
-git clone https://github.com/CFGpp-diffusion/CFGpp.git
-cd CFGpp
-conda env create -f environment.yaml
+
+### Requirements
+
+- Python 3.9
+- PyTorch >= 2.1.0 (CUDA 11.8)
+  Create your environment. We recommend using the following comments.
+  ```bash
+  conda env create -f environment.yaml
+  ```
+
+### Usage
+
+Run Demo
+
+```bash
+python test.py --pretrained {PRETRAINED_MODEL}
 ```
 
 ## Citation
