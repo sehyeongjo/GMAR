@@ -12,7 +12,7 @@ The Vision Transformer (ViT) has made significant advance- ments in computer vis
 
 ## Overview
 
-![Image](https://github.com/user-attachments/assets/65d4788c-5443-4416-bec3-d1d5b8c96c5f)
+<img width="1083" alt="Image" src="https://github.com/user-attachments/assets/1b027c9c-4639-4759-8a50-86b13f94dc44" />
 
 <br>
 
