@@ -4,7 +4,7 @@ This repository is the official implementation of [GMAR: GRADIENT-DRIVEN MULTI-H
 
 [Sehyeong Jo](https://sehyeongjo.github.io/), [Gangjae Jang](https://github.com/sehyeongjo/GMAR), [Haesol Park](https://scholar.google.com/citations?user=UG-9gMYAAAAJ&hl=en)
 
-[![arXiv](https://img.shields.io/badge/arXiv-2311.18608-b31b1b.svg)](https://arxiv.org/abs/2406.08070)
+[![arXiv](https://img.shields.io/badge/arXiv-2504.19414-b31b1b.svg)](https://arxiv.org/abs/2504.19414)
 
 ## Abstract
 
