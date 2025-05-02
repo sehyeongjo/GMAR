@@ -1,6 +1,6 @@
 # GMAR: GRADIENT-DRIVEN MULTI-HEAD ATTENTION ROLLOUT FOR VISION TRANSFORMER INTERPRETABILITY
 
-This repository is the official implementation of [GMAR: GRADIENT-DRIVEN MULTI-HEAD ATTENTION ROLLOUT FOR VISION TRANSFORMER INTERPRETABILITY](https://github.com/sehyeongjo/GMAR)
+This repository is the official implementation of [GMAR: GRADIENT-DRIVEN MULTI-HEAD ATTENTION ROLLOUT FOR VISION TRANSFORMER INTERPRETABILITY](https://arxiv.org/abs/2504.19414)
 
 [Sehyeong Jo](https://sehyeongjo.github.io/), [Gangjae Jang](https://github.com/sehyeongjo/GMAR), [Haesol Park](https://scholar.google.com/citations?user=UG-9gMYAAAAJ&hl=en)
 
