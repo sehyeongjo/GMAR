@@ -53,10 +53,10 @@ python test.py --pretrained {PRETRAINED_MODEL}
 If you find our work interesting, please cite our paper.
 
 ```bibtex
-@article{jo2024proxyllm,
-  title={ProxyLLM: LLM-Driven Framework for Customer Support Through Text-Style Transfer},
-  author={Jo, Sehyeong and Seo, Jungwon},
-  journal={arXiv preprint arXiv:2412.09916},
-  year={2024}
+@article{jo2025gmar,
+  title={GMAR: Gradient-Driven Multi-Head Attention Rollout for Vision Transformer Interpretability},
+  author={Jo, Sehyeong and Jang, Gangjae and Park, Haesol},
+  journal={arXiv preprint arXiv:2504.19414},
+  year={2025}
 }
 ```
