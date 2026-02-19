@@ -1,6 +1,6 @@
 # GMAR: GRADIENT-DRIVEN MULTI-HEAD ATTENTION ROLLOUT FOR VISION TRANSFORMER INTERPRETABILITY
 
-This repository is the official implementation of [GMAR: GRADIENT-DRIVEN MULTI-HEAD ATTENTION ROLLOUT FOR VISION TRANSFORMER INTERPRETABILITY](https://arxiv.org/abs/2504.19414)
+This repository is the official implementation of [GMAR: GRADIENT-DRIVEN MULTI-HEAD ATTENTION ROLLOUT FOR VISION TRANSFORMER INTERPRETABILITY](https://ieeexplore.ieee.org/abstract/document/11084559)
 
 ## Accepted IEEE International Conference on Image Processing(ICIP), 2025
 
