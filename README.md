@@ -55,10 +55,12 @@ python test.py --pretrained {PRETRAINED_MODEL}
 If you find our work interesting, please cite our paper.
 
 ```bibtex
-@article{jo2025gmar,
-  title={GMAR: Gradient-Driven Multi-Head Attention Rollout for Vision Transformer Interpretability},
+@inproceedings{jo2025gmar,
+  title={GMAR: gradient-driven multi-head attention rollout for vision transformer interpretability},
   author={Jo, Sehyeong and Jang, Gangjae and Park, Haesol},
-  journal={arXiv preprint arXiv:2504.19414},
-  year={2025}
+  booktitle={2025 IEEE International Conference on Image Processing (ICIP)},
+  pages={582--587},
+  year={2025},
+  organization={IEEE}
 }
 ```
